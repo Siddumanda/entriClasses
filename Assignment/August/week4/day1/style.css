@@ -9,3 +9,7 @@ h1,h2 {
     background-color: rgb(62, 7, 244);
 }
 
+.name1, .name2{
+    text-align:center;
+}
+
